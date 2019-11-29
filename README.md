@@ -1,7 +1,7 @@
-It's me, Max!
+It's me, Aravind!
 
 # Usage
 
 ```
-npx mxstbr
+npx aravindballa
 ```
